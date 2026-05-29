@@ -53,4 +53,3 @@ La aplicación tendrá tres secciones:
 Consideraciones: la llave para encriptar y desencriptar, tiene que ser
 persistente, esto quiere decir que aunque el usuario cierre la aplicación,
 la contraseña no se perderá, por lo cual tiene que estar guardada con
-cierta redundancia. Usa IdexedDB con una opción para este proposito
